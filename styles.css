@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+html {
+    border-radius: 5px 5px 5px 5px ;
+}
+
+header {
+    background-color: #DD4C3F;
+    height: 60px;
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    top:0;
+}
+
+header > img {
+    margin: auto 0 auto 0;
+    width: 100px;
+    height: auto;
+}
+
+div {
+    margin: 0 15px 0 15px;
+
+}
+
+#user1 {
+    margin: 70px 15px 0 15px;
+}
+
+p {
+    border-bottom: 1px solid #cccbcb;
+    padding: 6px 0;
+}
